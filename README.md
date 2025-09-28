@@ -26,6 +26,6 @@ Test Design Choices
 ## UI Tests validate:
 #### Page load with correct title.
 #### Logo visibility.
-####Navigation links work.
+#### Navigation links work.
 #### Important buttons exist.
 #### Locust used to simulate small load (5–10 concurrent users, ≤100 requests/day).
