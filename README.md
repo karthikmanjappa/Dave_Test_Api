@@ -7,3 +7,6 @@ This project contains automated tests for:
 2. DaveAI Website – verifying title, logo, navigation, and button presence.
 3. Optional Load Test – using Locust to simulate 5–10 users.
 
+## Project Structure 
+pip install pytest requests
+API Testing (Reqres)
